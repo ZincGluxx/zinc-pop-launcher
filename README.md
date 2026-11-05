@@ -16,7 +16,7 @@ Requires the following dependencies:
 And then must be used with a compatible pop-launcher frontend
 
 - [pop-shell](https://github.com/pop-os/shell/)
-- [cosmic-launcher](https://github.com/pop-os/cosmic-launcher)
+- [cosmic-launcher](https://github.com/ZincGluxx/zinc-launcher)
 - [onagre](https://github.com/oknozor/onagre)
 
 ```sh
